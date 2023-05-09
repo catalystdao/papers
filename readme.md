@@ -2,7 +2,7 @@
 This repository contains various papers released by the Catalyst protocol.
 
 ## Unit of Liquidity - Market Making Asynchronously
-By Alexander Lindgren, Jorge Sanmiguel, June 2023
+By Alexander Lindgren, Jorge Sanmiguel. June 2023
 
 ### Abstract
 
