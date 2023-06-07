@@ -1,7 +1,7 @@
 # Catalyst Papers
 This repository contains various papers released by the Catalyst protocol.
 
-## Asynchronous Autonomous Market Maker
+## Catalyst - Asynchronous Autonomous Market Making via a Unit of Liquidity.pdf
 By Alexander Lindgren, Jorge Sanmiguel. June 2023
 
 ### Abstract
